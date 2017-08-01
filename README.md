@@ -1,5 +1,5 @@
 ![banner](/img/banner.png)
-# UTADA LOGO 视觉形象指引
+# UTADA视觉形象指引
 
 ## 主标志 PBI
 
