@@ -1,6 +1,8 @@
 ![banner](/img/banner.png)
 # UTADA视觉形象指引
 
+<a href="UTADA_Brand_Emblem.zip">标志素材下载</a>
+
 ## 主标志 PBI
 
 ### 标志细节
